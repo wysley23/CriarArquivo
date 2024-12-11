@@ -1,0 +1,14 @@
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\bin\Debug\net8.0\CRIARARQIVOTEXTO.exe
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\bin\Debug\net8.0\CRIARARQIVOTEXTO.deps.json
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\bin\Debug\net8.0\CRIARARQIVOTEXTO.runtimeconfig.json
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\bin\Debug\net8.0\CRIARARQIVOTEXTO.dll
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\bin\Debug\net8.0\CRIARARQIVOTEXTO.pdb
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\obj\Debug\net8.0\CRIARARQIVOTEXTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\obj\Debug\net8.0\CRIARARQIVOTEXTO.AssemblyInfoInputs.cache
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\obj\Debug\net8.0\CRIARARQIVOTEXTO.AssemblyInfo.cs
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\obj\Debug\net8.0\CRIARARQIVOTEXTO.csproj.CoreCompileInputs.cache
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\obj\Debug\net8.0\CRIARARQIVOTEXTO.dll
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\obj\Debug\net8.0\refint\CRIARARQIVOTEXTO.dll
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\obj\Debug\net8.0\CRIARARQIVOTEXTO.pdb
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\obj\Debug\net8.0\CRIARARQIVOTEXTO.genruntimeconfig.cache
+C:\Users\wysle\OneDrive\Documentos\Senai\NET\CriarTEXTO\CRIARARQIVOTEXTO\obj\Debug\net8.0\ref\CRIARARQIVOTEXTO.dll
